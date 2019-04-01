@@ -9,7 +9,13 @@ The main contributors to this project are:
     Aditya Mandeep Vakani
     Anurag Vinayak Muttur
     
-This repository contains the entire python script used to simulate different types of DoS attacks.
+This repository contains the entire python script used to simulate different types of DoS attacks between 2 end systems with the knowledge of the victim's IP address.
 
+We've demonstrated 4 different types of attacks:
 
-zz
+    1. UDP Flood
+    2. TCP Syn Flood
+    3. TCP Rst Flood
+    4. ICMP Flood 
+    
+The python script "dos.py" contains separate functions for each attack and the attacker can choose the attack he wants to carry out.
