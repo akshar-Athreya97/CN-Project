@@ -6,12 +6,12 @@ Demonstrating Denial-Of-Service attacks using Socket Programming in Python for a
 
 This project was carried out as an assessment for Computer Networks course part of Electronics and Communication Engineering course at PES University
 
-The main contributers to this project are:
-1. A
-2. g
-3. j
-4. a
+The 4 contributors to this project are:
 
+    1. Akshar Deepankar Athreya
+    2. Ashwin Kumar Singh
+    3. Aditya M Vakani
+    4. Anurag Vinayak Muttur
 
 This repository contains the entire python script used to simulate different types of DoS attacks between 2 end systems with the knowledge of the victim's IP address.
 
