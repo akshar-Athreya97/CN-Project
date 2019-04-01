@@ -4,8 +4,7 @@
 
 Demonstrating Denial-Of-Service attacks using Socket Programming in Python for a project part of Computer Networks course 
 
-This project was carried out as an assessment for Computer Networks course part of Electronics and Communication Engineering course at PES University
-
+This project was carried out as an assessment for Computer Networks subject which is part of ECE course at PES University.
 The 4 contributors to this project are:
 
     1. Akshar Deepankar Athreya
