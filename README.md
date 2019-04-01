@@ -23,6 +23,8 @@ We've demonstrated 4 different types of attacks:
     4. ICMP Flood 
     
 The python script "dos.py" contains separate functions for each attack and the attacker can choose the attack he wants to carry out.
+The following types of attacks have been demonstrated :
+
 
 1. UDP Flooding -> (def UDPFlood)
     In this function, we create a socket of UDP type, using this we send UDP packers of random size to a specific IP address , with
