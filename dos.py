@@ -4,7 +4,7 @@ import sys
 import random
 import os
 from struct import *
-
+#ABCDEFGHIJKL COMMENT
 
 
 def UDPflood(target,port,duration):
